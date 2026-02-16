@@ -1,0 +1,10 @@
+python
+java
+sql
+html
+css
+javascript
+react
+spring boot
+machine learning
+power bi
